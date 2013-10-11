@@ -1,0 +1,13 @@
+body{
+    background-color: #7ccbff;
+}
+#div-titre{
+    text-align:center;
+}
+#div-form{
+    padding: 0 0 0 145px;
+    background-color: chartreuse;
+}
+.tab{
+    margin-left: 3em;
+}
